@@ -1,2 +1,3 @@
 # My_AI_things
-This file contains my EDA of Haberman dataset.
+The first file contains my EDA of Haberman dataset.
+The second file contains my catface detection code using cascadeclassifier.
